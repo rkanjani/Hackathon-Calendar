@@ -35,4 +35,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MetroHacks](http://metrohacks.co) | Boston, MA | 5.21 - 5.22 |
 | [WellesleyHacks](http://wellesleyhacks.com/) | Wellelsey, MA | 5.28 |
 | [Cyclehack Berlin](http://cyclehackberlin.de) | Berlin, Germany | 6.24 - 6.26 |
-
+| [deCODE Hacks Ottawa](http://hackdecode.io) | Ottawa, Ontario | 10.14 - 10.15 |
+| [deCODE Hacks Montreal](http://hackdecode.io) | Montreal, Quebec | 11.11 - 11.12 |
+| [deCODE Hacks Toronto](http://hackdecode.io) | Toronto, Ontario | 11.18 - 11.19 |
